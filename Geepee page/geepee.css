@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.maingeepee{
+    background-color: rgb(141, 184, 236);
+}
+.maingeepee img{
+    width: 12%;
+    margin-left: 4rem;
+    margin-top: 4rem;
+}
+.geepee1{
+    display: flex;
+    margin-right: 5rem;
+}
+.geepee1 img{width: 37% ;
+    margin-bottom: 8rem;
+           
+}
+    
+.geepeeform{ margin-left: 17rem;
+    background-color: rgb(255, 255, 255);
+   border-radius: 1rem;
+   padding: 5rem;
+   justify-content: center;
+   align-items: center;
+   box-sizing: border-box;
+}
+.geepeeform h2{color: rgb(0, 0, 0);
+    margin-bottom: 2rem;
+    font-size:1.5rem;
+}
+.geepeeform p{
+    font-size: 1rem;
+    margin-bottom: 2rem;
+}
+.geepeeform label{
+    color: rgb(54, 58, 58);
+    font-size: 1rem;
+}
+.geepeeform a{text-decoration: none;
+    font-size: 1rem;
+    color:rgb(17, 132, 203);
+}
+.inputbox input{ align-items: end;
+  justify-content: end;
+  text-decoration: underline;
+}
+.geepeeform input{padding: 1rem;
+    width: 100%;
+    border: 0.1rem solid rgb(173, 170, 170);
+    margin-bottom: 1rem;
+    margin-top: 2rem;
+    border-radius: 1rem;}
+ .forgot{ margin-top: 1rem;
+          margin-bottom: 3rem;
+    }
+.geepeeform button{color: rgb(245, 243, 243);
+    background-color: rgb(17, 128, 239);
+    padding: 1rem;
+    width: 100%;
+    border: none;
+    border-radius: 2rem;
+}
